@@ -1,6 +1,7 @@
 # 项目简介：
 STM32电赛开发板是零基础入门PCB设计-国一学长带你学嘉立创EDA专业版的大师篇课程项目，资料中包含工程文件、Gerber文件、课程PPT、数据手册、测试代码。
 <img src="图片/QQ20250211-005919.png" alt="图片描述" width="100%" height="auto">
+<img src="图片/QQ20250217-172857.png" alt="图片描述" width="100%" height="auto">
 
 ## B站视频链接：
 
