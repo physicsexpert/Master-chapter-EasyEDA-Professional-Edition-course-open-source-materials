@@ -3,9 +3,9 @@ STM32电赛开发板是零基础入门PCB设计-国一学长带你学嘉立创ED
 <img src="图片/QQ20250211-005919.png" alt="图片描述" width="100%" height="auto">
 <img src="图片/QQ20250217-172857.png" alt="图片描述" width="100%" height="auto">
 
-## B站视频链接：
+## B站视频链接：https://www.bilibili.com/video/BV1fFAfeZEBE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4e3f44990520382b49c509f140bd3ce4
 
-## 开源资料链接：
+## 开源资料链接：https://pan.quark.cn/s/447095243f10
 
 # 产品渲染图
 <img src="图片/untitled.59.png" alt="图片描述" width="100%" height="auto">
